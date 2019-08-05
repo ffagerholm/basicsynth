@@ -118,7 +118,7 @@ Reference documentation on the libraries is built with Doxygen. Use the files in
 
 The BasicSynth directory structure is shown in the following diagram.
 
-![](Documents/structure.jpg)
+![](https://raw.githubusercontent.com/ffagerholm/basicsynth/master/Documents/Structure.jpg)
 
 
 | Directory               | Usage                     |
