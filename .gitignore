@@ -1,0 +1,22 @@
+
+# Visual studio code
+.vscode
+
+# Binaries
+Bin/*
+!Bin/SciLexer.dll
+!Bin/SciLexerD.dll
+!Bin/Scintilla.dll
+!Bin/ScintillaD.dll
+Src/Common/releasex86_64
+Src/Instruments/releasex86_64
+Src/GMSynth/releasex86_64
+Src/Notelist/releasex86_64
+Lib
+Src/Instruments/Includes.h.gch
+
+# Audio files
+*.wav
+
+# OS X
+.DS_Store

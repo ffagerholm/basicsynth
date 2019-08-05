@@ -16,6 +16,7 @@
 #include <math.h>
 #include <SynthDefs.h>
 #include <SynthFile.h>
+#include <sys/stat.h>
 
 FileWriteUnBuf::FileWriteUnBuf()
 {
